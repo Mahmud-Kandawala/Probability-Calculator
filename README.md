@@ -38,3 +38,10 @@ probability = experiment(hat=hat,
                   num_balls_drawn=5,
                   num_experiments=2000)
 ```
+
+
+Since this is based on random draws, the probability will be slightly different each time the code is run.
+
+*Hint: Consider using the modules that are already imported at the top of `prob_calculator.py`. Do not initialize random seed within `prob_calculator.py`.*
+
+## Development
